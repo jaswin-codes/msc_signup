@@ -1,6 +1,6 @@
 # MSC Signup Autofiller 🎿⛷️
 
-An automated signup assistant for UCT's Mountain and Skiing Club (MSC) events hosted on Amathuba. This tool handles the tedious parts of event registration — logging in, filling out forms, and submitting at the exact right moment — so you don't have to frantically type while spots disappear in seconds.
+An automated signup assistant for UCT's Mountain and Skiing Club (MSC) events hosted on Amathuba. This tool handles the tedious parts of event registration - logging in, filling out forms, and submitting at the exact right moment — so you don't have to frantically type while spots disappear in seconds.
 
 > ⚠️ **Disclaimer:** This is a personal automation tool built for educational purposes and my own convenience. Use responsibly and at your own risk. Respect your club's signup policies and don't abuse automation.
 
