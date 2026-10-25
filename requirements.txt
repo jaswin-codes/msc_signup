@@ -1,0 +1,5 @@
+selenium
+webdriver-manager
+pyautogui
+pyperclip
+win10toast; sys_platform == "win32"

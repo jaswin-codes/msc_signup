@@ -22,7 +22,6 @@ An automated signup assistant for UCT's Mountain and Skiing Club (MSC) events ho
 |------|-------------|
 | `signup_main.py` | **Current main script** — refactored version using `helpers.py` and `settings.py` for cleaner code |
 | `signup_better.py` | Alternative version with some UX improvements (manual event selection before form fill) |
-| `signup_original_backup.py` | Original first iteration — fully manual login, simpler flow |
 | `helpers.py` | Shared utility functions (login handling, form filling, timing logic, notifications) |
 | `settings.py` | Configuration loader — reads from `local_settings.py` or environment variables |
 
@@ -37,7 +36,7 @@ An automated signup assistant for UCT's Mountain and Skiing Club (MSC) events ho
 ### Dependencies
 
 ```bash
-pip install selenium webdriver-manager pyautogui pyperclip win10toast
+pip install -r requirements.txt
 ```
 
 ---
