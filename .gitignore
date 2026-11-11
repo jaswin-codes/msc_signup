@@ -6,3 +6,6 @@ local_settings.py
 .vscode/
 *.code-workspace
 desktop.ini
+# Local secrets and OneNote stubs
+.env
+*.onetoc2
